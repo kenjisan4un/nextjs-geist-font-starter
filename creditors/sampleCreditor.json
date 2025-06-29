@@ -1,0 +1,4 @@
+{
+  "to": "creditor@example.com",
+  "cc": ["cc1@example.com", "cc2@example.com"]
+}
